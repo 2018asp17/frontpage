@@ -3,8 +3,10 @@
 <head>
 	<title>Department Home</title>
 	<?php
-		require_once 'connect.php';
+	
+		require_once 'conf.php';
 		require_once 'deptfunc.php';
+
 	?>
 </head>
 <body>
